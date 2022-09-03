@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RyMikky
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in gamedev, C++ libraries, graphics
+- 🌱 I’m currently learning C++ (Yandex.Practicum), SFML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Telegram @Ry_mik
 
 <!---
 RyMikky/RyMikky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
