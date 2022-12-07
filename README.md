@@ -2,7 +2,7 @@
    /  Hi, I’m @RyMikky
 - 👀 Меня инетересует геймдев, библиотеки С++, графика     
    /  I’m interested in gamedev, C++ libraries, graphics
-- 🌱 Я студент Яндекс.Практикума                           
+- 🌱 Я выпускник Яндекс.Практикума                           
    /  I’m currently learning C++ (Yandex.Practicum), SFML
 - 📫 VK.com/ry_mikky
 - 📫 Telegram @Ry_mik
